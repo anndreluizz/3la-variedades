@@ -1,4 +1,4 @@
-:HL["/3la-variedades/_next/static/chunks/31lvwlr5-1q34.css","style"]
+:HL["/3la-variedades/_next/static/chunks/35ovbkrwecdzj.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"W2wUs5cS1T-8rXfMKEPoU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qteGamIft869o6FdSiVcl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,7 +1,7 @@
-:HL["/3la-variedades/_next/static/chunks/1sgceoxdvd3za.css","style"]
+:HL["/3la-variedades/_next/static/chunks/1wgxg6pgy6m9o.css","style"]
 :HL["/3la-variedades/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/3la-variedades/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/3la-variedades/marca/nome-verde.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"privacidade","h":96,"c":"$Q2"}]]
-0:{"b":"zZzwXhhpjlk3Nm6kCECm4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"a9q-Y7nelhk7lvdC5b_H2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
